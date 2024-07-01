@@ -1,0 +1,7 @@
+streamlit
+datetime
+yfinance
+prophet
+prophet.plot
+plotly.graph_objs
+plotly
